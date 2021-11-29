@@ -1,1 +1,1 @@
-# EDI-project
+# EDI group project
