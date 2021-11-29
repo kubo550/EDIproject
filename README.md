@@ -1,2 +1,1 @@
-# EDIproject
-Created with CodeSandbox
+# EDI-project
